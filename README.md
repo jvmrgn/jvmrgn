@@ -20,5 +20,5 @@
 ##
 
 <div>
-    <p>Conheça o meu <a href="https://joaoviniciusportfolio.netlify.app/" target="_blank">Website</a></p>
+    <p>Conheça o meu <a href="https://joaoviniciusmagrini.netlify.app/#" target="_blank">Website</a></p>
  </div>
