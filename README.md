@@ -1,7 +1,5 @@
 ### Olá! 👋
 
-- ⚡Atualmente cursando Análise e Desenvolvimento de sistemas!
-
 ##
 <div style="display: inline_block"><br>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
